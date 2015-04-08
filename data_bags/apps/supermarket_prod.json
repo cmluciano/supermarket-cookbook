@@ -1,7 +1,7 @@
 {
   "id": "supermarket_prod",
   "description": "This is a test data bag just to verify that Supermarket can load data bags from node attributes. For a full data bag reference, look at supermarket.json.",
-  "repository": "https://github.com/opscode/supermarket.git",
+  "repository": "https://github.com/chef/supermarket.git",
   "revision": "master",
   "deploy_action": "force_deploy",
   "env": {
